@@ -1,10 +1,10 @@
 package Plants;
 
 public enum PlantName {
-    IGGE("igge", PlantType.CACTUS, 0.2),
-    LAURA("laura", PlantType.PALM_TREE, 5.0),
-    MEATLOAF("meatloaf", PlantType.CARNIVOROUS_PLANT, 0.7),
-    OLOF("olof", PlantType.PALM_TREE, 1.0);
+    IGGE("Igge", PlantType.CACTUS, 0.2),
+    LAURA("Laura", PlantType.PALM_TREE, 5.0),
+    MEATLOAF("Meatloaf", PlantType.CARNIVOROUS_PLANT, 0.7),
+    OLOF("Olof", PlantType.PALM_TREE, 1.0);
 
     // Having private variables here is an example of encapsulation.
     private final String name;
